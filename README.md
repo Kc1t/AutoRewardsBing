@@ -33,7 +33,7 @@ Substitua `chave_de_acesso_aqui` pela sua chave de acesso e `seu_email_aqui` pel
 ## Execução
 Para iniciar o projeto, você pode executar o seguinte comando:
 ```
-npm i
+npm start
 ```
 Ou apenas executar o arquivo .exe
 
